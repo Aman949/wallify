@@ -1,6 +1,6 @@
 # wallify
 
-A new Flutter project.
+Wallfy app helps you to select and download wallaper of different categories for free. 
 
 ## Getting Started
 
