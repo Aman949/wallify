@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474893141662",
+    "project_id": "wallify-4900a",
+    "storage_bucket": "wallify-4900a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474893141662:android:e305044f6747825995dd8f",
+        "android_client_info": {
+          "package_name": "com.example.wallify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXbvABLTWJhkZSS0jf9FNbjdsIfofuBNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
